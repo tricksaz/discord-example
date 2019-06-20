@@ -1,7 +1,7 @@
 {
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
+  "name": "Princess Ve Content",
+  "description": "Content Testing",
+  "version": "0.0.5",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
